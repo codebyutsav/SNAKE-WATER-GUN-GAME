@@ -13,6 +13,11 @@ A simple command-line version of the classic **Snake, Water, Gun** game built us
 
 You vs Computer — whoever wins the most rounds, wins the game!
 
+## 📸 Animated Game Preview
+![Snake, Water, Gun](https://i.ytimg.com/vi/3alpnuC8H_g/maxresdefault.jpg)
+
+This animated image illustrates the core elements of the Snake, Water, Gun game in action, showing how the game mechanics come to life.
+
 ## ✨ Features
 
 - Turn-based user vs computer gameplay
@@ -26,7 +31,6 @@ You vs Computer — whoever wins the most rounds, wins the game!
 - Python 3
 
 ## 🚀 How to Run
-
 1. Clone this repository:
    ```bash
    git clone https://github.com/codebyutsav/Snake-Water-Gun-Game.git
